@@ -1,0 +1,8 @@
+movie_id,title,genres,keywords,poster,tags
+1,Inception,Action Sci-Fi,dream heist,https://m.media-amazon.com/images/I/91p3Z4jFJ2L._AC_SL1500_.jpg,Action Sci-Fi dream heist
+2,Interstellar,Adventure Sci-Fi,space travel,https://m.media-amazon.com/images/I/71n9mXELWzL._AC_SL1500_.jpg,Adventure Sci-Fi space travel
+3,The Dark Knight,Action Thriller,gotham hero,https://m.media-amazon.com/images/I/71P8J4aIutL._AC_SL1500_.jpg,Action Thriller gotham hero
+4,Avengers,Action Superhero,marvel heroes,https://m.media-amazon.com/images/I/81ai6zx6eXL._AC_SL1500_.jpg,Action Superhero marvel heroes
+5,Titanic,Romance Drama,love ship,https://m.media-amazon.com/images/I/71rNJQ2g-LL._AC_SY679_.jpg,Romance Drama love ship
+6,Avatar,Fantasy Sci-Fi,alien world,https://m.media-amazon.com/images/I/61OUGpUfAyL._AC_SY679_.jpg,Fantasy Sci-Fi alien world
+7,Joker,Drama Crime,mental illness,https://m.media-amazon.com/images/I/71niXI3lxlL._AC_SY679_.jpg,Drama Crime mental illness
